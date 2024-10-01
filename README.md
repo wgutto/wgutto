@@ -1,6 +1,6 @@
 ### Olá, me chamo Augusto Brito 👋
 
-- 🔭 Hoje trabalho com front-end, e em busca de me tornar fullstack.
+- 🔭 Hoje estudo frontend, e em busca de me tornar fullstack.
 - 🌱 Estou estudando html5 e css3.
 
 <div align="center">
@@ -21,8 +21,3 @@
   <a href = "mailto:gamesguto9@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
   
-<div>
-  
-  ![Snake animation](https://github.com/wgutto/wgutto/blob/output/github-contribution-grid-snake.svg)
- 
-  </div>
