@@ -1,7 +1,6 @@
 ### Olá, me chamo Augusto Brito 👋
 
 - 🔭 Hoje estudo frontend, e em busca de me tornar fullstack.
-- 🌱 Estou estudando html5 e css3.
 
 <div align="center">
   <a href="https://github.com/wgutto">
