@@ -1,4 +1,4 @@
-### Augusto Brito 👋
+### Augusto Brito
 
 - 🔭 Hoje estudo frontend, e em busca de me tornar fullstack.
 
