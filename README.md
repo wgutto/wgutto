@@ -12,8 +12,8 @@
 <div style="display: none">
   <img align="center" alt="wgutto-css3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
   <img align="center" alt="wgutto-html5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
-  <img align="center" alt="wgutto-html5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain-wordmark.svg">
-  <img align="center" alt="wgutto-html5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain-wordmark.svg">
+  <img align="center" alt="wgutto-html5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ts/ts-plain-wordmark.svg">
+  <img align="center" alt="wgutto-html5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/js/js-plain-wordmark.svg">
   <img align="center" alt="wgutto-html5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwind/tailwind-plain-wordmark.svg">
 </div>
 
