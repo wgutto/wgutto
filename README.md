@@ -1,21 +1,32 @@
-### Augusto Brito
+Hello, I'm Augusto Brito. 🤓
 
-- 🔭 Hoje estudo frontend, e em busca de me tornar fullstack.
+I am currently specializing in Frontend development, but I plan to become a Full Stack developer in the near future. I quickly adapt to new technologies and challenges, and I value teamwork as an essential way of growth and collaboration.
 
+## Programming Languages
+[![](https://skillicons.dev/icons?i=js,typescript,lua)](https://skillicons.dev)
+
+## Frontend Technologies
+[![](https://skillicons.dev/icons?i=html,css,tailwind)](https://skillicons.dev)
+
+## Versioning
+[![](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
+
+## Studying
+[![](https://skillicons.dev/icons?i=react,next)](https://skillicons.dev)
+
+## GitHub Stats
+<br>
 <div align="center">
   <a href="https://github.com/wgutto">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=wgutto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wgutto&layout=compact&langs_count=7&theme=dark"/>
 </div><br/>
 
-<b>Linguagens que utilizo:</b>
-<div>
-  <img align="center" alt="wgutto-css3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
-  <img align="center" alt="wgutto-html5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
-</div>
-
-##
-<div>
-  <a href="https://www.instagram.com/wgutto" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:gamesguto9@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+---
+<p align="center">Contact</p>
+<p align="center">
+  <a href="https://discord.gg/sanchezfps."><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="https://instagram.com/wgutto"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://x.com/wguttoo"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X"></a>
+  <a href="mailto:augusstobrito@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
+</p>
