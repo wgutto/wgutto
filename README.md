@@ -1,4 +1,4 @@
-Hello, I'm Augusto Brito. 🤓
+Hello, I'm <ins>Augusto Brito</ins>. 🤓
 
 I am currently specializing in Frontend development, but I plan to become a Full Stack developer in the near future. I quickly adapt to new technologies and challenges, and I value teamwork as an essential way of growth and collaboration.
 
