@@ -2,6 +2,8 @@ Hello, I'm Augusto Brito. 🤓
 
 I am currently specializing in Frontend development, but I plan to become a Full Stack developer in the near future. I quickly adapt to new technologies and challenges, and I value teamwork as an essential way of growth and collaboration.
 
+More about me below
+
 ## Programming Languages
 [![](https://skillicons.dev/icons?i=js,typescript,lua)](https://skillicons.dev)
 
