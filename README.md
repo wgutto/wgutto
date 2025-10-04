@@ -1,6 +1,6 @@
 Hello, I'm <ins>Augusto Brito</ins>. 🤓
 
-I am currently specializing in Frontend development, but I plan to become a Full Stack developer in the near future. I quickly adapt to new technologies and challenges, and I value teamwork as an essential way of growth and collaboration.
+I am currently pursuing a degree in Software Engineering and specializing in front-end development, with the goal of becoming a full stack developer in the near future. I adapt quickly to new technologies and challenges, and I value teamwork as an essential pillar for professional growth and effective collaboration.
 
 More about me below
 
