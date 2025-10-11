@@ -11,7 +11,7 @@ More about me below
 [![](https://skillicons.dev/icons?i=html,css,tailwind)](https://skillicons.dev)
 
 ## Versioning
-[![](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
 ## Studying
 [![](https://skillicons.dev/icons?i=react,next,c)](https://skillicons.dev)
