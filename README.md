@@ -15,7 +15,7 @@ More about me below 👇
 [![](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
 
 ## ☁️ DevOps & Cloud
-[![](https://skillicons.dev/icons?i=githubactions,aws)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=githubactions,aws,vercel)](https://skillicons.dev)
 
 ## 📚 Currently Learning
 [![](https://skillicons.dev/icons?i=react,next,c)](https://skillicons.dev)
