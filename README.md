@@ -10,7 +10,7 @@ More about me below
 ## Frontend Technologies
 [![](https://skillicons.dev/icons?i=html,css,tailwind)](https://skillicons.dev)
 
-## Versioning
+## Tools & Technologies
 [![](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
 ## Studying
