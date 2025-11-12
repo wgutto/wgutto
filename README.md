@@ -13,7 +13,7 @@ More about me below 👇
 
 ## 🧰 Tools & Technologies
 [![](https://skillicons.dev/icons?i=git,github,vscode,axios)](https://skillicons.dev)
-![Axios](https://img.shields.io/badge/Axios-671ddf?logo=axios&logoColor=white)
+[Axios](https://img.shields.io/badge/Axios-671ddf?logo=axios&logoColor=white)
 
 ## ☁️ DevOps & Cloud
 [![](https://skillicons.dev/icons?i=githubactions,aws,vercel)](https://skillicons.dev)
