@@ -12,8 +12,13 @@ More about me below 👇
 [![](https://skillicons.dev/icons?i=html,css,tailwind,react)](https://skillicons.dev)
 
 ## 🧰 Tools & Technologies
-[![](https://skillicons.dev/icons?i=git,github,vscode,axios)](https://skillicons.dev)
-[Axios](https://img.shields.io/badge/Axios-671ddf?logo=axios&logoColor=white)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  </a>
+  <img src="https://img.shields.io/badge/Axios-671ddf?logo=axios&logoColor=white" alt="Axios" style="vertical-align: middle; margin-left: 8px;" />
+</p>
+
 
 ## ☁️ DevOps & Cloud
 [![](https://skillicons.dev/icons?i=githubactions,aws,vercel)](https://skillicons.dev)
