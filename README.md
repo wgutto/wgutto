@@ -12,7 +12,7 @@ More about me below 👇
 [![](https://skillicons.dev/icons?i=html,css,tailwind,react)](https://skillicons.dev)
 
 ## 🧰 Tools & Technologies 
-[![](https://skillicons.dev/icons?i=git,github,vscode,tanstack)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
 
 
 ## ☁️ DevOps & Cloud
