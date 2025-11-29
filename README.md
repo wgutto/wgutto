@@ -26,7 +26,7 @@ More about me below 👇
 <div align="center">
   <a href="https://github.com/wgutto">
   <img height="140em" src="https://streak-stats.demolab.com/?user=wgutto&theme=dark"/>
-  <img height="140em" src="https://github-readme-stats-git-masterorg.vercel.app/api?username=wgutto&show_icons=true&theme=dark"/>
+  <img height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wgutto&theme=github_dark"/>
 </div>
 <br/>
 
