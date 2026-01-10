@@ -1,4 +1,4 @@
-Hello, I'm <ins>Augusto Brito</ins>. 🤓
+Hello, I'm **Augusto Brito** 🤓
 
 I'm a **Software Engineering student** with a strong focus on **Front-End Development** and a growing interest in **Full Stack development**.  
 I enjoy building modern, scalable applications and continuously improving my skills across both client-side and server-side technologies.
@@ -6,6 +6,8 @@ I enjoy building modern, scalable applications and continuously improving my ski
 I adapt quickly to new technologies and challenges, and I strongly value teamwork as a key driver of learning, collaboration, and professional growth.
 
 More about me below 👇
+
+---
 
 ## 🧠 Programming Languages
 [![](https://skillicons.dev/icons?i=js,typescript,lua)](https://skillicons.dev)
@@ -22,20 +24,26 @@ More about me below 👇
 ## ☁️ DevOps & Cloud
 [![](https://skillicons.dev/icons?i=githubactions,aws,vercel)](https://skillicons.dev)
 
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="420"
-       src="https://streak-stats.demolab.com/?user=wgutto&theme=dark&format=png"/>
-  <img width="420"
-       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wgutto&theme=github_dark&format=png"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=wgutto&show_icons=true&theme=dark&hide_border=true"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=wgutto&layout=compact&theme=dark&hide_border=true"
+    height="165"
+  />
 </div>
 
 ---
 
 <p align="center">📫 <b>Contact</b></p>
 <p align="center">
-  <a href="https://discord.gg/sanchezfps.">
+  <a href="https://discord.gg/sanchezfps">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord">
   </a>
   <a href="https://instagram.com/wgutto">
