@@ -10,49 +10,33 @@ More about me below 👇
 ---
 
 ## 🧠 Programming Languages
-[![](https://skillicons.dev/icons?i=js,typescript,lua)](https://skillicons.dev)
+![Languages](https://skillicons.dev/icons?i=js,typescript,lua)
 
 ## ⚙️ Frameworks
-[![](https://skillicons.dev/icons?i=react,nextjs)](https://skillicons.dev)
+![Frameworks](https://skillicons.dev/icons?i=react,nextjs)
 
 ## 🎨 Frontend Technologies
-[![](https://skillicons.dev/icons?i=html,css,tailwind)](https://skillicons.dev)
+![Frontend](https://skillicons.dev/icons?i=html,css,tailwind)
 
 ## 🧰 Tools & Technologies
-[![](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
+![Tools](https://skillicons.dev/icons?i=git,github,vscode)
 
 ## ☁️ DevOps & Cloud
-[![](https://skillicons.dev/icons?i=githubactions,aws,vercel)](https://skillicons.dev)
+![Cloud](https://skillicons.dev/icons?i=githubactions,aws,vercel)
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=wgutto&show_icons=true&theme=dark&hide_border=true"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=wgutto&layout=compact&theme=dark&hide_border=true"
-    height="165"
-  />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wgutto&show_icons=true&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wgutto&layout=compact&theme=dark&hide_border=true)
 
 ---
 
-<p align="center">📫 <b>Contact</b></p>
-<p align="center">
-  <a href="https://discord.gg/sanchezfps">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord">
-  </a>
-  <a href="https://instagram.com/wgutto">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://x.com/wguttoo">
-    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X">
-  </a>
-  <a href="mailto:augusstobrito@gmail.com">
-    <img src="https://img.shields.io/badge/Email-blue.svg?logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+## 📫 Contact
+
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/sanchezfps)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wgutto)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/wguttoo)
+[![Email](https://img.shields.io/badge/Email-blue.svg?logo=gmail&logoColor=white)](mailto:augusstobrito@gmail.com)
