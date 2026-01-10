@@ -23,12 +23,13 @@ More about me below 👇
 [![](https://skillicons.dev/icons?i=githubactions,aws,vercel)](https://skillicons.dev)
 
 ## 📊 GitHub Stats
-<br>
+
 <div align="center">
-    <img width="420" src="https://streak-stats.demolab.com/?user=wgutto&theme=dark"/>
-    <img width="420" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wgutto&theme=github_dark"/>
+  <img width="420"
+       src="https://streak-stats.demolab.com/?user=wgutto&theme=dark&format=png"/>
+  <img width="420"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wgutto&theme=github_dark&format=png"/>
 </div>
-<br/>
 
 ---
 
