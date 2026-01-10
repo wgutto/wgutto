@@ -25,8 +25,8 @@ More about me below 👇
 ## 📊 GitHub Stats
 <br>
 <div align="center">
-    <img src="https://streak-stats.demolab.com/?user=wgutto&theme=dark"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wgutto&theme=github_dark"/>
+    <img width="420" src="https://streak-stats.demolab.com/?user=wgutto&theme=dark"/>
+    <img width="420" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wgutto&theme=github_dark"/>
 </div>
 <br/>
 
