@@ -9,7 +9,7 @@ More about me below 👇
 
 ---
 
-## 🧠 Programming Languages
+# 🧠 Programming Languages
 ![Languages](https://skillicons.dev/icons?i=js,typescript,lua)
 
 ## ⚙️ Frameworks
