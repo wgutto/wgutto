@@ -26,14 +26,6 @@ More about me below 👇
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wgutto&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wgutto&layout=compact&theme=dark&hide_border=true)
-
----
-
 ## 📫 Contact
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/sanchezfps)
