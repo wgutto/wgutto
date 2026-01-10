@@ -9,20 +9,20 @@ More about me below 👇
 
 ---
 
-### ## 🧠 Programming Languages
+## 🧠 Programming Languages
 ![Languages](https://skillicons.dev/icons?i=js,typescript,lua)
 
 
-### ⚙️ Frameworks
+## ⚙️ Frameworks
 ![Frameworks](https://skillicons.dev/icons?i=react,nextjs)
 
-### 🎨 Frontend Technologies
+## 🎨 Frontend Technologies
 ![Frontend](https://skillicons.dev/icons?i=html,css,tailwind)
 
-### 🧰 Tools & Technologies
+## 🧰 Tools & Technologies
 ![Tools](https://skillicons.dev/icons?i=git,github,vscode)
 
-### ☁️ DevOps & Cloud
+## ☁️ DevOps & Cloud
 ![Cloud](https://skillicons.dev/icons?i=githubactions,aws,vercel)
 
 ---
