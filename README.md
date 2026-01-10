@@ -12,21 +12,21 @@ More about me below 👇
 ### 🧠 Programming Languages
 ![Languages](https://skillicons.dev/icons?i=js,typescript,lua)
 
-## ⚙️ Frameworks
+### ⚙️ Frameworks
 ![Frameworks](https://skillicons.dev/icons?i=react,nextjs)
 
-## 🎨 Frontend Technologies
+### 🎨 Frontend Technologies
 ![Frontend](https://skillicons.dev/icons?i=html,css,tailwind)
 
-## 🧰 Tools & Technologies
+### 🧰 Tools & Technologies
 ![Tools](https://skillicons.dev/icons?i=git,github,vscode)
 
-## ☁️ DevOps & Cloud
+### ☁️ DevOps & Cloud
 ![Cloud](https://skillicons.dev/icons?i=githubactions,aws,vercel)
 
 ---
 
-## 📫 Contact
+### 📫 Contact
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/sanchezfps)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wgutto)
