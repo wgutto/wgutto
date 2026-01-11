@@ -25,8 +25,6 @@ More about me below 👇
 ## ☁️ DevOps & Cloud
 ![Cloud](https://skillicons.dev/icons?i=githubactions,aws,vercel)
 
----
-
 ## 📚 Currently Studying
 ![Studying](https://skillicons.dev/icons?i=nodejs,postgresql)
 
