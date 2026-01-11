@@ -10,7 +10,7 @@ More about me below 👇
 ---
 
 ## 🧠 Programming Languages
-![Languages](https://skillicons.dev/icons?i=js,typescript,lua)
+![Languages](https://skillicons.dev/icons?i=js,typescript)
 
 
 ## ⚙️ Frameworks
@@ -23,7 +23,7 @@ More about me below 👇
 ![Tools](https://skillicons.dev/icons?i=git,github,vscode)
 
 ## ☁️ DevOps & Cloud
-![Cloud](https://skillicons.dev/icons?i=githubactions,aws,vercel)
+![Cloud](https://skillicons.dev/icons?i=aws,vercel)
 
 ## 📚 Currently Studying
 ![Studying](https://skillicons.dev/icons?i=nodejs,postgresql)
