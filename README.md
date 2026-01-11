@@ -25,7 +25,7 @@ More about me below 👇
 ![Cloud](https://skillicons.dev/icons?i=aws,vercel)
 
 ## 📚 Currently Studying
-![Studying](https://skillicons.dev/icons?i=nodejs,postgresql)
+![Studying](https://skillicons.dev/icons?i=nodejs,postgresql,express)
 
 ---
 
