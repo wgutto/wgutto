@@ -28,7 +28,7 @@ More about me below 👇
 ---
 
 ## 📚 Currently Studying
-![Studying](https://skillicons.dev/icons?i=nodejs,postgree)
+![Studying](https://skillicons.dev/icons?i=nodejs,postgresql)
 
 ---
 
