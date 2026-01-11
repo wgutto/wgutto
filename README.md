@@ -27,6 +27,11 @@ More about me below 👇
 
 ---
 
+## 📚 Currently Studying
+![Studying](https://skillicons.dev/icons?i=nodejs,postgree)
+
+---
+
 ### 📫 Contact
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/sanchezfps)
