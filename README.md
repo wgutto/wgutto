@@ -10,9 +10,8 @@ More about me below 👇
 ---
 
 ### 🧠 Programming Languages
+` `
 ![Languages](https://skillicons.dev/icons?i=js,typescript)
-
-<hr/>
 
 ## ⚙️ Frameworks
 ![Frameworks](https://skillicons.dev/icons?i=react,nextjs)
