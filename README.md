@@ -43,9 +43,9 @@ Below are the technologies and tools I currently work with and study 🚀
   <img src="https://skillicons.dev/icons?i=aws,authjs&perline=6" />
 </p>
 
----
-
 ## 📫 Contact
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wgutto)  
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/wguttoo)  
-[![Email](https://img.shields.io/badge/Email-blue.svg?logo=gmail&logoColor=white)](mailto:augusstobrito@gmail.com)
+<p align="center">
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wgutto)  
+  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/wguttoo)  
+  [![Email](https://img.shields.io/badge/Email-blue.svg?logo=gmail&logoColor=white)](mailto:augusstobrito@gmail.com)
+</p>
