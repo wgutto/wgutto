@@ -1,37 +1,63 @@
-Hello, I'm **Augusto Brito** 🤓
+## 👋 Hello, I’m **Augusto Brito**
 
-I'm a **Software Engineering student** with a strong focus on **Front-End Development** and a growing interest in **Full Stack development**.  
-I enjoy building modern, scalable applications and continuously improving my skills across both client-side and server-side technologies.
+I’m a **Software Engineering student** with a strong focus on **Front-End Development** and a clear path toward becoming a **Full Stack Developer**.
 
-I adapt quickly to new technologies and challenges, and I strongly value teamwork as a key driver of learning, collaboration, and professional growth.
+I enjoy building modern, scalable, and well-structured applications, always seeking to improve code quality, performance, and user experience. I learn quickly, adapt well to new technologies, and value teamwork as an essential part of collaboration and professional growth.
 
-More about me below 👇
+Below are the technologies and tools I currently work with and study 🚀
 
 ---
 
 ## 🧠 Programming Languages
-![Languages](https://skillicons.dev/icons?i=js,typescript)
-
-## ⚙️ Frameworks
-![Frameworks](https://skillicons.dev/icons?i=react,nextjs)
-
-## 🎨 Frontend Technologies
-![Frontend](https://skillicons.dev/icons?i=html,css,tailwind)
-
-## 🧰 Tools & Technologies
-![Tools](https://skillicons.dev/icons?i=git,github,vscode)
-
-## ☁️ DevOps & Cloud
-![Cloud](https://skillicons.dev/icons?i=aws,vercel)
-
-## 📚 Currently Studying
-![Studying](https://skillicons.dev/icons?i=nodejs,postgresql,sql,nosql,express)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,sql&perline=6" />
+</p>
 
 ---
 
-### 📫 Contact
+## 🎨 Front-End
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs&perline=6" />
+</p>
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/sanchezfps)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wgutto)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/wguttoo)
+---
+
+## ⚙️ Back-End
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express&perline=6" />
+</p>
+
+---
+
+## 🗄️ Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb&perline=6" />
+</p>
+
+---
+
+## 🧰 Tools & Version Control
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=6" />
+</p>
+
+---
+
+## ☁️ Cloud & Deployment
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vercel&perline=6" />
+</p>
+
+---
+
+## 📚 Currently Studying
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,authjs&perline=6" />
+</p>
+
+---
+
+## 📫 Contact
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wgutto)  
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/wguttoo)  
 [![Email](https://img.shields.io/badge/Email-blue.svg?logo=gmail&logoColor=white)](mailto:augusstobrito@gmail.com)
