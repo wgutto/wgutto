@@ -30,7 +30,7 @@ Below are the technologies and tools I currently work with and study 🚀
 
 ## 🧰 Tools & Version Control
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=6" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&perline=6" />
 </p>
 
 ## ☁️ Cloud & Deployment
