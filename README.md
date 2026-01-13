@@ -13,42 +13,30 @@ Below are the technologies and tools I currently work with and study 🚀
   <img src="https://skillicons.dev/icons?i=js,ts,sql&perline=6" />
 </p>
 
----
-
 ## 🎨 Front-End
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs&perline=6" />
 </p>
-
----
 
 ## ⚙️ Back-End
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express&perline=6" />
 </p>
 
----
-
 ## 🗄️ Databases
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postgresql,mongodb&perline=6" />
 </p>
-
----
 
 ## 🧰 Tools & Version Control
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=6" />
 </p>
 
----
-
 ## ☁️ Cloud & Deployment
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vercel&perline=6" />
 </p>
-
----
 
 ## 📚 Currently Studying
 <p align="left">
