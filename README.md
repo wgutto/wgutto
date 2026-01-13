@@ -38,12 +38,8 @@ Below are the technologies and tools I currently work with and study 🚀
   <img src="https://skillicons.dev/icons?i=vercel&perline=6" />
 </p>
 
-## 📚 Currently Studying
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,authjs&perline=6" />
-</p>
+---
 
-## 📫 Contact
 <p align="center">
   <a href="https://instagram.com/wgutto">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
