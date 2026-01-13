@@ -15,7 +15,7 @@ Below are the technologies and tools I currently work with and study 🚀
 
 ## 🎨 Front-End
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs&perline=6" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,vite,nextjs&perline=6" />
 </p>
 
 ## ⚙️ Back-End
