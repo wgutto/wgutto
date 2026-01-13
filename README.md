@@ -43,8 +43,6 @@ Below are the technologies and tools I currently work with and study 🚀
   <img src="https://skillicons.dev/icons?i=aws,authjs&perline=6" />
 </p>
 
----
-
 ## 📫 Contact
 <p align="center">
   <a href="https://instagram.com/wgutto">
