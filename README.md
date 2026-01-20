@@ -25,7 +25,7 @@ Below are the technologies and tools I currently work with and study 🚀
 
 ## 🗄️ Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb&perline=6" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql&perline=6" />
 </p>
 
 ## 🧰 Tools & Version Control
@@ -40,14 +40,13 @@ Below are the technologies and tools I currently work with and study 🚀
 
 ---
 
-<p align="center">
-  <a href="https://instagram.com/wgutto">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
-  </a>
-  <a href="https://x.com/wguttoo">
-    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" />
-  </a>
-  <a href="mailto:augusstobrito@gmail.com">
-    <img src="https://img.shields.io/badge/Email-blue.svg?logo=gmail&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wgutto)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wgutto)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/wguttoo)
+[![Email](https://img.shields.io/badge/Email-blue.svg?logo=gmail&logoColor=white)](mailto:augusstobrito@gmail.com)
+
+</div>
+
+
