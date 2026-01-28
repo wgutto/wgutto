@@ -20,7 +20,7 @@ Below are the technologies and tools I currently work with and study 🚀
 
 ## ⚙️ Back-End
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express&perline=6" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma&perline=6" />
 </p>
 
 ## 🗄️ Databases
