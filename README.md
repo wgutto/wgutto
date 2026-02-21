@@ -1,10 +1,12 @@
 ## 👋 Hello, I’m **Augusto Brito**
 
-Software Engineering student passionate about building real-world web applications.
+Software Engineering student building modern and scalable web applications.
 
-I specialize in React, Next.js, and Node.js, creating full stack solutions with authentication, API integration, database modeling, and scalable architectures.
+I focus on **React, Next.js, and Node.js**, developing full stack projects with authentication, API integration, database management, and well-structured architectures.
 
-I’m continuously refining my approach to clean code, performance, and software design — evolving toward becoming a high-level Full Stack Developer.
+Currently improving my skills in software architecture, performance optimization, and clean code practices working toward becoming a strong Full Stack Developer.
+
+Below are the technologies and tools I work with 🚀
 
 ---
 
