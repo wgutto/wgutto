@@ -1,10 +1,8 @@
-## 👋 Hello, I’m **Augusto Brito**
+## 👋 Hi, I’m **Augusto Brito**
 
-Software Engineering student building modern and scalable web applications.
+I’m a Software Engineering student building modern web applications, with a strong focus on **Front-End development** and growing experience in **Full Stack** projects.
 
-I focus on **React, Next.js, and Node.js**, developing full stack projects with authentication, API integration, database management, and well-structured architectures.
-
-Currently improving my skills in software architecture, performance optimization, and clean code practices working toward becoming a strong Full Stack Developer.
+I enjoy turning ideas into well-structured and scalable applications, paying close attention to code quality and user experience. I’m constantly improving my skills while exploring better ways to design and build software.
 
 Below are the technologies and tools I work with 🚀
 
