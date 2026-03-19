@@ -2,14 +2,14 @@
 
 # Augusto Brito
 
-**Fullstack Developer · Software Engineering Student**
+**Fullstack Developer · Backend-focused · Ceará, Brasil**
 
-I build scalable, well-structured web applications — from robust APIs and database architecture to clean, responsive interfaces. My current focus is on backend systems, distributed services, and developer tooling, always with an eye for clean code and maintainability.
+Software Engineering student currently focused on backend. I got into it through security and authentication, and I've been going deeper ever since. I like to understand how things actually work before moving on, and I'm always shaping my code toward cleaner, more professional patterns as I build.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wgutto)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/wgutto)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/wguttoo)
-[![Email](https://img.shields.io/badge/Email-%230078D4.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:augusstobrito@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wgutto)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/wgutto)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/wguttoo)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:augusstobrito@gmail.com)
 
 </div>
 
@@ -17,12 +17,13 @@ I build scalable, well-structured web applications — from robust APIs and data
 
 ## About Me
 
-- 🎓 Software Engineering student with hands-on experience in fullstack development
-- ⚙️ Backend-focused: REST APIs, database design, authentication, and server-side architecture
-- 🐳 Experienced with Docker for containerizing applications and managing local/production environments
-- 🌐 Comfortable across the stack — from database queries to React components
-- 📐 Care deeply about clean code, scalable architecture, and developer experience
-- 🔍 Always exploring new patterns, tools, and better ways to build software
+- 🎓 Software Engineering student with hands-on fullstack experience
+- ⚙️ Focused on backend: REST APIs, authentication, database modeling and server-side architecture
+- 🔐 Got into backend through security, still my favorite area to dig into
+- 🐳 Use Docker daily to keep my environments consistent and avoid the "works on my machine" problem
+- 🌐 Can work across the full stack within the Node.js and React ecosystem
+- 📐 I code as I go, but always pushing toward professional patterns and trying to understand what's happening under the hood
+
 
 ---
 
@@ -75,8 +76,16 @@ I build scalable, well-structured web applications — from robust APIs and data
 
 </div>
 
+<div align="center">
+
+  <img src="https://streak-stats.demolab.com?user=wgutto&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+
+</div>
+
 ---
 
+
+
 <div align="center">
-  <sub>Always building. Always learning.</sub>
+  <sub>The code works. Time to make it better.</sub>
 </div>
