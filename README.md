@@ -20,7 +20,6 @@ Started with frontend and kept going deeper. Now I build full-stack apps with a 
 - ⚙️ Backend at heart: REST APIs, auth flows, database modeling, server architecture
 - 🔐 Ended up in backend through security and auth, it's still what I find most interesting to dig into
 - 🐳 Docker in every project for consistent environments and no surprises
-- 📖 I build, then I understand, then I refactor, always moving toward cleaner patterns
 
 ## Tech Stack
 
@@ -52,6 +51,12 @@ Started with frontend and kept going deeper. Now I build full-stack apps with a 
 ### 🧰 Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vscode,postman&perline=6" />
+</p>
+
+### 📚 Exploring
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=jest,nest&perline=6" />
 </p>
 
 ## GitHub Stats
