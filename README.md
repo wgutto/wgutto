@@ -18,7 +18,6 @@ Started with frontend and kept going deeper. Now I build full-stack apps with a 
 - 🎓 Software Engineering student with real-world fullstack experience
 - 🌐 I build end-to-end, from UI to database, with ownership over the whole thing
 - ⚙️ Backend at heart: REST APIs, auth flows, database modeling, server architecture
-- 🔐 Ended up in backend through security and auth, it's still what I find most interesting to dig into
 - 🐳 Docker in every project for consistent environments and no surprises
 
 ## Tech Stack
