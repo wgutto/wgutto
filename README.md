@@ -1,6 +1,7 @@
-<h3>Hello! I am Augusto Brito. 👋</h3>
+<h3>Hello! I am Augusto Brito. 👋</h3
 
-**Fullstack Developer · Backend-focused · Ceará, Brazil**
+
+Fullstack Developer · Backend-focused · Ceará, Brazil
 
 Software Engineering student and full-stack developer with a strong focus on the back-end. API design, database architecture, and systems built to scale. I work across the entire development cycle, from planning to deployment.
 
