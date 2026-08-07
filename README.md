@@ -4,7 +4,7 @@
 
 Software Engineering student and full-stack developer, working across the entire development cycle, from planning and architecture to deployment and refinement. I enjoy understanding how each layer of an application connects, from the interface users interact with to the systems running behind it.
 
-Over time I've built projects involving APIs, database design, authentication flows, and modern front-end frameworks, always aiming for code that's clean, functional, and easy to maintain. I'm constantly exploring new tools and technologies to keep growing as a developer.
+I'm always looking to learn something new, while also going deeper into what I already know, refining my skills, exploring better ways of solving problems, and staying curious about the tools and practices that shape good software.
 
 Take a look at my skills below 👇
 
