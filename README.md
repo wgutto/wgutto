@@ -1,9 +1,12 @@
-<h3>Hello! I am Augusto Brito. 👋</h3
+<h3>Hello! I am Augusto Brito. 👋</h3>
 
+**Fullstack Developer · Ceará, Brazil**
 
-Fullstack Developer · Backend-focused · Ceará, Brazil
+Software Engineering student and full-stack developer, working across the entire development cycle, from planning and architecture to deployment and refinement. I enjoy understanding how each layer of an application connects, from the interface users interact with to the systems running behind it.
 
-Software Engineering student and full-stack developer with a strong focus on the back-end. API design, database architecture, and systems built to scale. I work across the entire development cycle, from planning to deployment.
+Over time I've built projects involving APIs, database design, authentication flows, and modern front-end frameworks, always aiming for code that's clean, functional, and easy to maintain. I'm constantly exploring new tools and technologies to keep growing as a developer.
+
+Take a look at my skills below 👇
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=333333&height=3&section=header" width="100%">
 
@@ -28,7 +31,7 @@ Software Engineering student and full-stack developer with a strong focus on the
 <img src="https://capsule-render.vercel.app/api?type=rect&color=333333&height=3&section=header" width="100%">
 
 <div align="center">
-  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wgutto)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:augusstobrito@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/augustobrto)
